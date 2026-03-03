@@ -16,7 +16,8 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.0",
-        "cells": []
+        "cells": [],
+        "description": "Modelado de amenazas del sitio web de la biblioteca universitaria utilizando metodología STRIDE, identificando actores, procesos, flujos de datos, dispositivos de almacenamiento, amenazas y mitigaciones."
       },
       {
         "id": 1,
